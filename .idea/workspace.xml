@@ -28,8 +28,8 @@
       <file leaf-file-name="Dictionary.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/tashsmit/Dictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7227723" vertical-offset="646" max-vertical-offset="1050">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5148515" vertical-offset="618" max-vertical-offset="1022">
+              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +75,8 @@
         <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/Dog.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/Kennel.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/DictionaryNew.java" />
-        <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/Dictionary.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/Main.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/tashsmit/Dictionary.java" />
       </list>
     </option>
   </component>
@@ -469,8 +469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/tashsmit/Dictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7227723" vertical-offset="646" max-vertical-offset="1050">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5148515" vertical-offset="618" max-vertical-offset="1022">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

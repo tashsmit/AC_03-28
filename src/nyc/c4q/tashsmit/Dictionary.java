@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class Dictionary {
 
     private ArrayList<String> words;
+    private int wordCount = 0;
 
     public Dictionary(File yourFile) {
 
@@ -28,7 +29,6 @@ public class Dictionary {
     }
 
     public void wordSearch(String searchTerm) {
-        int wordCount = 0;
         for (String word : words) {
 
             if (word.contains(searchTerm)) {
@@ -41,7 +41,6 @@ public class Dictionary {
     }
 
     public void prefixSearch(String searchTerm) {
-        int wordCount = 0;
         for (String word : words) {
 
             if (word.startsWith(searchTerm)) {
@@ -54,7 +53,6 @@ public class Dictionary {
     }
 
     public void suffixSearch(String searchTerm) {
-        int wordCount = 0;
         for (String word : words) {
 
             if (word.endsWith(searchTerm)) {
